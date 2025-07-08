@@ -1,0 +1,73 @@
+{
+  "name": "Cognizant",
+  "children": [
+    {
+      "name": "COG_NA_AMS_OMNI",
+      "children": [
+        {
+          "name": "Awaiting User Confirmation",
+          "value": 1
+        },
+        {
+          "name": "Open",
+          "value": 1
+        },
+        {
+          "name": "Pending",
+          "value": 1
+        },
+        {
+          "name": "Pending For Approval",
+          "value": 1
+        },
+        {
+          "name": "Pending For Future",
+          "value": 1
+        },
+        {
+          "name": "Work in Progress",
+          "value": 9
+        }
+      ],
+      "nodeSettings": {
+        "fill": "#FFB300"
+      }
+    },
+    {
+      "name": "COG_NA_PE_RBA",
+      "children": [
+        {
+          "name": "Open",
+          "value": 1
+        }
+      ],
+      "nodeSettings": {
+        "fill": "#803E75"
+      }
+    },
+    {
+      "name": "COG_NA_Unqork_EB EOI",
+      "children": [
+        {
+          "name": "Pending For Approval",
+          "value": 7
+        }
+      ],
+      "nodeSettings": {
+        "fill": "#FF6800"
+      }
+    },
+    {
+      "name": "COG_NA_Windows10",
+      "children": [
+        {
+          "name": "Open",
+          "value": 2
+        }
+      ],
+      "nodeSettings": {
+        "fill": "#A6BDD7"
+      }
+    }
+  ]
+}
