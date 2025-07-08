@@ -73,7 +73,7 @@
       });
 
       // ✅ Use relative path instead of raw.githubusercontent URL
-      fetch("https://raw.githubusercontent.com/Anu-Pie/Script-Lab/refs/heads/main/CGPT%20sunburst_data_colored.json")
+      fetch("./CGPT_sunburst_data_colored.json")
         .then(response => response.json())
         .then(data => {
           series.data.setAll([data]);
