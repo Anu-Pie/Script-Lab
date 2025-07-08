@@ -1,0 +1,1955 @@
+[
+  {
+    "name": "Cognizant",
+    "children": [
+      {
+        "name": "COG_NA_AMS_OMNI",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 1
+          },
+          {
+            "name": "Open",
+            "value": 1
+          },
+          {
+            "name": "Pending",
+            "value": 1
+          },
+          {
+            "name": "Pending For Approval",
+            "value": 1
+          },
+          {
+            "name": "Pending For Future",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 9
+          }
+        ]
+      },
+      {
+        "name": "COG_NA_PE_RBA",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "COG_NA_Unqork_EB EOI",
+        "children": [
+          {
+            "name": "Pending For Approval",
+            "value": 7
+          }
+        ]
+      },
+      {
+        "name": "COG_NA_Windows10",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "DXC Infra",
+    "children": [
+      {
+        "name": "APP_EMAIL_COMPLIANCE",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "APP_MIMECAST_ZIX",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          },
+          {
+            "name": "Pending",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "APP_O365 L2",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 2
+          },
+          {
+            "name": "Pending",
+            "value": 11
+          },
+          {
+            "name": "Pending For Approval",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 7
+          }
+        ]
+      },
+      {
+        "name": "APP_O365 L3",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 1
+          },
+          {
+            "name": "Pending",
+            "value": 2
+          },
+          {
+            "name": "Work in Progress",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "name": "AppPackaging OPS",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 6
+          },
+          {
+            "name": "Open",
+            "value": 10
+          },
+          {
+            "name": "Pending",
+            "value": 41
+          },
+          {
+            "name": "Work in Progress",
+            "value": 7
+          }
+        ]
+      },
+      {
+        "name": "CMDB_CI",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "Change Manager",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "INFRA Middleware Ops",
+        "children": [
+          {
+            "name": "Open",
+            "value": 3
+          },
+          {
+            "name": "Pending",
+            "value": 6
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "INFRA_AS400 Operations",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "INFRA_AWS CloudOps",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "INFRA_BACKUP OPS",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          },
+          {
+            "name": "Pending",
+            "value": 11
+          }
+        ]
+      },
+      {
+        "name": "INFRA_DB DB2LUW",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "INFRA_DB MS SQL",
+        "children": [
+          {
+            "name": "Open",
+            "value": 8
+          },
+          {
+            "name": "Pending",
+            "value": 11
+          },
+          {
+            "name": "Work in Progress",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "name": "INFRA_DB Oracle",
+        "children": [
+          {
+            "name": "Open",
+            "value": 4
+          },
+          {
+            "name": "Work in Progress",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "name": "INFRA_DXC Catch All",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "INFRA_Disaster Recovery",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "INFRA_MF DB2 DBA",
+        "children": [
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "INFRA_STORAGE OPS",
+        "children": [
+          {
+            "name": "Open",
+            "value": 7
+          }
+        ]
+      },
+      {
+        "name": "ISA_Access Management",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          },
+          {
+            "name": "Pending",
+            "value": 86
+          },
+          {
+            "name": "Work in Progress",
+            "value": 21
+          }
+        ]
+      },
+      {
+        "name": "ISA_User Provisioning",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 1
+          },
+          {
+            "name": "Pending",
+            "value": 1
+          },
+          {
+            "name": "Pending For Approval",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "ITSM_Vendor Chg Management",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "ITSecurity_AppSec",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "ITSecurity_FileIntegrityManagement",
+        "children": [
+          {
+            "name": "Work in Progress",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "ITSecurity_FirewallPolicy",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 6
+          }
+        ]
+      },
+      {
+        "name": "ITSecurity_IAM",
+        "children": [
+          {
+            "name": "Open",
+            "value": 9
+          }
+        ]
+      },
+      {
+        "name": "ITSecurity_PAM/EPM",
+        "children": [
+          {
+            "name": "Open",
+            "value": 3
+          },
+          {
+            "name": "Pending",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "ITSecurity_SIEM Engineering",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          },
+          {
+            "name": "Pending",
+            "value": 1
+          },
+          {
+            "name": "Pending For Approval",
+            "value": 2
+          },
+          {
+            "name": "Work in Progress",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "name": "ITSecurity_SOC",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 1
+          },
+          {
+            "name": "Open",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "name": "ITSecurity_SSO/MFA",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 3
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "ITSecurity_SentinelOne",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "name": "ITSecurity_VSS",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 2
+          },
+          {
+            "name": "Pending For Approval",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "name": "ITSecurity_Zscaler",
+        "children": [
+          {
+            "name": "Open",
+            "value": 8
+          },
+          {
+            "name": "Pending",
+            "value": 3
+          },
+          {
+            "name": "Work in Progress",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "name": "Infra_AAIP SSRS",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Infra_APM_Dynatrace",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Infra_Active Directory WPS",
+        "children": [
+          {
+            "name": "Open",
+            "value": 13
+          },
+          {
+            "name": "Pending",
+            "value": 5
+          },
+          {
+            "name": "Work in Progress",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "Infra_Catalog Maintenance",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Infra_DM_Virtual Endpoints",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 8
+          },
+          {
+            "name": "Open",
+            "value": 14
+          },
+          {
+            "name": "Pending",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "name": "Infra_DataCenter Ops",
+        "children": [
+          {
+            "name": "Open",
+            "value": 24
+          },
+          {
+            "name": "Work in Progress",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "name": "Infra_IPAM",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 2
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Infra_Informatica Ops",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 5
+          },
+          {
+            "name": "Work in Progress",
+            "value": 6
+          }
+        ]
+      },
+      {
+        "name": "Infra_Jamf",
+        "children": [
+          {
+            "name": "Work in Progress",
+            "value": 6
+          }
+        ]
+      },
+      {
+        "name": "Infra_Network_OPS",
+        "children": [
+          {
+            "name": "Open",
+            "value": 12
+          },
+          {
+            "name": "Pending",
+            "value": 4
+          },
+          {
+            "name": "Pending For Future",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 12
+          }
+        ]
+      },
+      {
+        "name": "Infra_PCD Admin",
+        "children": [
+          {
+            "name": "Open",
+            "value": 8
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Infra_PCD Scheduling",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 3
+          },
+          {
+            "name": "Work in Progress",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "Infra_UPtime Sloan",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Infra_Unix OPS",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          },
+          {
+            "name": "Pending",
+            "value": 6
+          },
+          {
+            "name": "Work in Progress",
+            "value": 17
+          }
+        ]
+      },
+      {
+        "name": "Infra_Voice_OPS",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 4
+          },
+          {
+            "name": "Work in Progress",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "name": "Infra_Wintel OPS",
+        "children": [
+          {
+            "name": "Open",
+            "value": 41
+          },
+          {
+            "name": "Pending",
+            "value": 20
+          },
+          {
+            "name": "Work in Progress",
+            "value": 62
+          }
+        ]
+      },
+      {
+        "name": "ServiceNow ITAM",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "DXC_App Mainframe",
+    "children": [
+      {
+        "name": "App_ILFS_Policy Support",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 9
+          },
+          {
+            "name": "Open",
+            "value": 41
+          },
+          {
+            "name": "Work in Progress",
+            "value": 31
+          }
+        ]
+      },
+      {
+        "name": "App_Mainframe",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 1
+          },
+          {
+            "name": "Open",
+            "value": 15
+          },
+          {
+            "name": "Work in Progress",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "App_Mainframe_Legacy",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 5
+          },
+          {
+            "name": "Open",
+            "value": 2
+          },
+          {
+            "name": "Work in Progress",
+            "value": 12
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_AMS_CORE_MAINFRAME_CSC",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 2
+          },
+          {
+            "name": "Open",
+            "value": 16
+          },
+          {
+            "name": "Pending For Future",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 19
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_Support_Producer Comp",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "DXC_Azure Cloud",
+    "children": [
+      {
+        "name": "DXC_Support_Cloud",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 40
+          }
+        ]
+      },
+      {
+        "name": "Infra_Azure VDI",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "InfoSys",
+    "children": [
+      {
+        "name": "APP_COLLABORATION",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 26
+          },
+          {
+            "name": "Pending For Future",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "APP_DISTRIBUTED_SYSTEMS",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 87
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "APP_IDMC Admin",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 2
+          },
+          {
+            "name": "Pending",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "name": "APP_IDMC Dev Support",
+        "children": [
+          {
+            "name": "Work in Progress",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "APP_LOTUS NOTES",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "APP_OPEN",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 7
+          },
+          {
+            "name": "Open",
+            "value": 8
+          },
+          {
+            "name": "Pending",
+            "value": 80
+          },
+          {
+            "name": "Pending For Future",
+            "value": 4
+          },
+          {
+            "name": "Work in Progress",
+            "value": 7
+          }
+        ]
+      },
+      {
+        "name": "APP_Web",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 5
+          },
+          {
+            "name": "Pending",
+            "value": 17
+          },
+          {
+            "name": "Work in Progress",
+            "value": 14
+          }
+        ]
+      },
+      {
+        "name": "APP_xPr",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 6
+          },
+          {
+            "name": "Pending For Future",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "App_Snowflake_Data Stores",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 3
+          },
+          {
+            "name": "Pending For Future",
+            "value": 2
+          },
+          {
+            "name": "Work in Progress",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "App_iSeries",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 4
+          },
+          {
+            "name": "Pending",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "COG_NA_AMS_Robotics",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 2
+          },
+          {
+            "name": "Open",
+            "value": 4
+          },
+          {
+            "name": "Pending",
+            "value": 11
+          }
+        ]
+      },
+      {
+        "name": "CRM Salesforce",
+        "children": [
+          {
+            "name": "Open",
+            "value": 8
+          },
+          {
+            "name": "Pending",
+            "value": 2
+          },
+          {
+            "name": "Pending For Future",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_AMS_APPL_DBA",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_AMS_OPEN_ETL",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 1
+          },
+          {
+            "name": "Open",
+            "value": 2
+          },
+          {
+            "name": "Pending",
+            "value": 4
+          },
+          {
+            "name": "Pending For Future",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 8
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_Support_Alfresco Enterprise",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 42
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_Support_RMS",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 2
+          },
+          {
+            "name": "Work in Progress",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_Support_ServiceIntegration",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "ServiceNow Development",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 6
+          },
+          {
+            "name": "Open",
+            "value": 1
+          },
+          {
+            "name": "Pending For Approval",
+            "value": 1
+          },
+          {
+            "name": "Pending For Future",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "ServiceNow Support",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "OneAmerica",
+    "children": [
+      {
+        "name": " Business_WONESupport",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "APP_ADO Development",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 1
+          },
+          {
+            "name": "Open",
+            "value": 5
+          },
+          {
+            "name": "Pending",
+            "value": 4
+          },
+          {
+            "name": "Pending For Future",
+            "value": 2
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "APP_CLAIMS_FINEOS",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "APP_ETL_Datamod",
+        "children": [
+          {
+            "name": "Pending For Future",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Access_BAs",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Access_CMDB_admin",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "Approvers_Directors CHG Freeze Override",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Business_ASP DGEM",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "Business_ASP_Rules Server Admin",
+        "children": [
+          {
+            "name": "Open",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "name": "Business_Cost Center Manager_Workday",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "Business_FIS",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "Business_MKIntranet",
+        "children": [
+          {
+            "name": "Open",
+            "value": 8
+          }
+        ]
+      },
+      {
+        "name": "CORP_SEC",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Data Org_Delivery",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Data_Analytics",
+        "children": [
+          {
+            "name": "Pending For Future",
+            "value": 8
+          },
+          {
+            "name": "Work in Progress",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "name": "Data_BDA",
+        "children": [
+          {
+            "name": "Pending For Future",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Data_Engagement",
+        "children": [
+          {
+            "name": "Open",
+            "value": 16
+          },
+          {
+            "name": "Pending For Future",
+            "value": 3
+          },
+          {
+            "name": "Work in Progress",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "Data_Governance",
+        "children": [
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Data_Quality",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Docusign_Business_Admin",
+        "children": [
+          {
+            "name": "Open",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "name": "EUC Deskside_ Apple/Mac ",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "EUC_OPS",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 9
+          },
+          {
+            "name": "Open",
+            "value": 61
+          },
+          {
+            "name": "Pending",
+            "value": 9
+          },
+          {
+            "name": "Work in Progress",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "EUC_Separations",
+        "children": [
+          {
+            "name": "Open",
+            "value": 5
+          },
+          {
+            "name": "Work in Progress",
+            "value": 20
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_AMS",
+        "children": [
+          {
+            "name": "Open",
+            "value": 39
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_AMS_CORE_SYSTEMS",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_AMS_MGRS",
+        "children": [
+          {
+            "name": "Open",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_AMS_PEGA",
+        "children": [
+          {
+            "name": "Open",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_AMS_Robotics",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 1
+          },
+          {
+            "name": "Open",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_AMS_SAAS",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 1
+          },
+          {
+            "name": "Open",
+            "value": 6
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_AWD_Business_Admin",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 1
+          },
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_BLD_ADA",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 1
+          },
+          {
+            "name": "Open",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_BLD_ENDPOINT",
+        "children": [
+          {
+            "name": "Open",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_BLD_ETL",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_BLD_Operational_Data_Hub",
+        "children": [
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_BLD_SQA",
+        "children": [
+          {
+            "name": "Open",
+            "value": 11
+          },
+          {
+            "name": "Pending",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_BLD_Service_Integration",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_Business_FRM",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_DXP_Systems",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_EUS_PROCUREMENT",
+        "children": [
+          {
+            "name": "Open",
+            "value": 3
+          },
+          {
+            "name": "Pending",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_EUX_LIFECYCLE",
+        "children": [
+          {
+            "name": "Open",
+            "value": 4
+          },
+          {
+            "name": "Pending",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_EUX_M365",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_EUX_OPS",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_EUX_VIP",
+        "children": [
+          {
+            "name": "Open",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_Enterprise_Architecture",
+        "children": [
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_HR_KRONOS",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_ITBM_BRM",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_ITBM_Project Manager",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_InfoSec_Engineering",
+        "children": [
+          {
+            "name": "Open",
+            "value": 11
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_InfoSec_Governance",
+        "children": [
+          {
+            "name": "Open",
+            "value": 29
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_InfoSec_IAM",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 2
+          },
+          {
+            "name": "Open",
+            "value": 36
+          },
+          {
+            "name": "Pending",
+            "value": 11
+          },
+          {
+            "name": "Pending For Future",
+            "value": 2
+          },
+          {
+            "name": "Work in Progress",
+            "value": 8
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_InfoSec_Operations",
+        "children": [
+          {
+            "name": "Open",
+            "value": 28
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_Infrastructure",
+        "children": [
+          {
+            "name": "Open",
+            "value": 18
+          },
+          {
+            "name": "Pending",
+            "value": 1
+          },
+          {
+            "name": "Pending For Future",
+            "value": 11
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_ONESOURCE_1099",
+        "children": [
+          {
+            "name": "Open",
+            "value": 13
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_PRINTER_SUPPORT",
+        "children": [
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_RS_BST",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_RS_MOBILEAPP_CORE",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_RS_TECHAPPS",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_Support_APPL_Data",
+        "children": [
+          {
+            "name": "Pending For Approval",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_Support_AppSec",
+        "children": [
+          {
+            "name": "Open",
+            "value": 2
+          },
+          {
+            "name": "Work in Progress",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_Support_Business Continuity",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 8
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_Support_Cloud",
+        "children": [
+          {
+            "name": "Open",
+            "value": 6
+          },
+          {
+            "name": "Pending For Future",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_Support_Cloud_Automation",
+        "children": [
+          {
+            "name": "Open",
+            "value": 6
+          },
+          {
+            "name": "Pending",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_Support_EUX_SharePoint_Admin",
+        "children": [
+          {
+            "name": "Pending",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_Support_EUX_Sys_Admin",
+        "children": [
+          {
+            "name": "Open",
+            "value": 34
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_Support_Infra Engineering",
+        "children": [
+          {
+            "name": "Open",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_Support_RS_OWS Provisioning",
+        "children": [
+          {
+            "name": "Open",
+            "value": 8
+          }
+        ]
+      },
+      {
+        "name": "OA_NA_VendorMgmt",
+        "children": [
+          {
+            "name": "Open",
+            "value": 37
+          },
+          {
+            "name": "Pending For Future",
+            "value": 15
+          },
+          {
+            "name": "Work in Progress",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OA_REAL_ESTATE",
+        "children": [
+          {
+            "name": "Open",
+            "value": 9
+          },
+          {
+            "name": "Pending",
+            "value": 1
+          },
+          {
+            "name": "Work in Progress",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "name": "ServiceNow Intake Team",
+        "children": [
+          {
+            "name": "Awaiting User Confirmation",
+            "value": 8
+          },
+          {
+            "name": "Open",
+            "value": 39
+          },
+          {
+            "name": "Pending",
+            "value": 25
+          },
+          {
+            "name": "Pending For Approval",
+            "value": 2
+          },
+          {
+            "name": "Pending For Future",
+            "value": 2
+          },
+          {
+            "name": "Work in Progress",
+            "value": 9
+          }
+        ]
+      },
+      {
+        "name": "ServiceNow Product Team",
+        "children": [
+          {
+            "name": "Open",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "ServiceNow SACM",
+        "children": [
+          {
+            "name": "Open",
+            "value": 34
+          }
+        ]
+      },
+      {
+        "name": "Support_Finance_Workday",
+        "children": [
+          {
+            "name": "Open",
+            "value": 17
+          }
+        ]
+      }
+    ]
+  }
+]
