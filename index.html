@@ -69,7 +69,7 @@
         textAlign: "start"
       });
 
-      fetch("https://github.com/Anu-Pie/Script-Lab/blob/main/sunburst_data.json")
+      fetch("https://raw.githubusercontent.com/Anu-Pie/Script-Lab/refs/heads/main/sunburst_data_colored.json")
         .then(response => response.json())
         .then(data => {
           series.data.setAll([data]);
