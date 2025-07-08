@@ -3,9 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <title>Sunburst Chart</title>
-  https://cdn.amcharts.com/lib/5/index.js
-  https://cdn.amcharts.com/lib/5/hierarchy.js
-  https://cdn.amcharts.com/lib/5/themes/Animated.js
+
+  <!-- ✅ Include actual script tags -->
+  <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
+  <script src="https://cdn.amcharts.com/lib/5/hierarchy.js"></script>
+  <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
+
   <style>
     html, body {
       width: 100%;
@@ -69,7 +72,8 @@
         textAlign: "start"
       });
 
-      fetch("https://raw.githubusercontent.com/Anu-Pie/Script-Lab/refs/heads/main/sunburst_data_colored.json")
+      // ✅ Use relative path instead of raw.githubusercontent URL
+      fetch("./sunburst_data_colored.json")
         .then(response => response.json())
         .then(data => {
           series.data.setAll([data]);
